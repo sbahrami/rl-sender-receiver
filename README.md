@@ -9,6 +9,10 @@ This project implements a Q-learning scenario where a Sender agent communicates 
 - Functions to run episodes and update Q-values.
 - Animation of the training process with a progress bar.
 
+The reinforcement learning training is also illustrated by creating an animation of the sender and receiver using cartoonic characters. The bee acts as the receiver of the signal and the flower acts as the sender of the signal. Watch the bee and the flower learning how to communicate in order to get the reward.
+
+[Bee and flower Adventure](https://youtu.be/VyvJmquF8o4))
+
 ## Project Structure
 
 - `Sender` class: Implements the Q-learning sender agent.
